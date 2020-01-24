@@ -3,7 +3,7 @@
   "description": "Baseline installation of the current release of Health Cloud",
   "country": "US",
   "edition": "Enterprise",
-  "hasSampleData": false,
+  "hasSampleData": true,
   "language": "en_US",
   "features": [
     "HealthCloudUser",
